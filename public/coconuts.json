@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Coco Bliss Chronicles",
+        "price": 150,
+        "mainPic": "https://i.ibb.co/2tcdF6G/2.png",
+        "picture1": "https://i.ibb.co/d0k2KL8/3.png",
+        "picture2": "https://i.ibb.co/RQFSPQw/4.png",
+        "picture3": "https://i.ibb.co/LktG7Vp/18.png",
+        "picture4": "https://i.ibb.co/jhqR1kp/23.png",
+        "description": "The coconut, scientifically known as Cocos nucifera, is a versatile tropical fruit that is renowned for its numerous uses. Encased in a tough, fibrous husk, the coconut contains a large, seed-like nut with a rich, white flesh and a clear liquid known as coconut water. The meat of the coconut is commonly used in culinary applications, providing a sweet and nutty flavor to a variety of dishes and desserts."
+    },
+    {
+        "name": "Tropical Haven Harmony",
+        "price": 180,
+        "mainPic": "https://i.ibb.co/bKBf9Jp/6.png",
+        "picture1": "https://i.ibb.co/P14btzS/1.png",
+        "picture2": "https://i.ibb.co/2tcdF6G/2.png",
+        "picture3": "https://i.ibb.co/xMFdrNS/5.png",
+        "picture4": "https://i.ibb.co/2Fr3smM/16.png",
+        "description": "Coconut oil, extracted from the coconut meat, is widely utilized for cooking, skincare, and hair care due to its health benefits and versatility. The coconut palm, which produces coconuts, is an important tree in many tropical regions, contributing to the economy and livelihood of communities by providing various products."
+    },
+    {
+        "name": "Coco Concoctions Chronicle",
+        "price": 250,
+        "mainPic": "https://i.ibb.co/g6gWFQK/15.png",
+        "picture1": "https://i.ibb.co/0mvX3Js/9.png",
+        "picture2": "https://i.ibb.co/fC8tK33/10.png",
+        "picture3": "https://i.ibb.co/Rh8bf4v/19.png",
+        "picture4": "https://i.ibb.co/X7v8m42/20.png",
+        "description": "The coconut is a tropical fruit with a tough, brown, fibrous husk surrounding a large seed. Inside the seed, there is a white, edible flesh called coconut meat and a refreshing, clear liquid known as coconut water. Coconuts are versatile and widely used in cooking, providing a sweet and nutty flavor to various dishes. Coconut oil, derived from the meat, is valued for its culinary, skincare, and hair care applications. The coconut palm, which produces coconuts, is an essential tree in tropical regions, contributing to local economies and cultures. With its association with tropical paradises, coconuts are not only a culinary delight but also hold cultural significance."
+    },
+    {
+        "name": "Coconut Dreams Unfold",
+        "price": 130,
+        "mainPic": "https://i.ibb.co/Rh8bf4v/19.png",
+        "picture1": "https://i.ibb.co/bKBf9Jp/6.png",
+        "picture2": "https://i.ibb.co/wNnQ6bc/8.png",
+        "picture3": "https://i.ibb.co/HNqd51B/13.png",
+        "picture4": "https://i.ibb.co/KG8NJrL/24.png",
+        "description": "The coconut is a tropical fruit renowned for its versatility and distinct features. Encased in a tough, brown husk, it harbors a large seed with a white, flavorful flesh known as coconut meat and a hydrating, clear liquid called coconut water. Widely used in culinary applications, coconut imparts a sweet and nutty taste to various dishes. Extracted from the meat, coconut oil finds applications in cooking, skincare, and hair care. The coconut palm, the tree bearing these fruits, is crucial to tropical economies and cultures. Beyond its practical uses, the coconut is associated with tropical landscapes, symbolizing exotic beauty and relaxation."
+    },
+    {
+        "name": "Palms of Pure Pleasure",
+        "price": 350,
+        "mainPic": "https://i.ibb.co/fC8tK33/10.png",
+        "picture1": "https://i.ibb.co/nrPX9Pk/7.png",
+        "picture2": "https://i.ibb.co/TP7hdV8/12.png",
+        "picture3": "https://i.ibb.co/g6gWFQK/15.png",
+        "picture4": "https://i.ibb.co/7241cXK/21.png",
+        "description": "The coconut is a tropical fruit that comes from the coconut palm tree, scientifically known as Cocos nucifera. It features a tough, brown outer husk, a seed with a white, edible flesh known as coconut meat, and a refreshing liquid called coconut water. Known for its sweet and nutty flavor, coconut is a versatile ingredient used in various culinary applications, from savory dishes to desserts. Coconut oil, derived from the meat, is widely used in cooking and has applications in skincare and haircare. The coconut palm is a vital plant in tropical regions, contributing to local economies and cultures. Beyond its practical uses, coconuts are often associated with paradisiacal landscapes and tropical imagery."
+    },
+    {
+        "name": "Serenade of the Coco Soul",
+        "price": 155,
+        "mainPic": "https://i.ibb.co/2Fr3smM/16.png",
+        "picture1": "https://i.ibb.co/w4P7516/11.png",
+        "picture2": "https://i.ibb.co/XX163p2/14.png",
+        "picture3": "https://i.ibb.co/JCJkpxM/17.png",
+        "picture4": "https://i.ibb.co/mNSkwyX/22.png",
+        "description": "The coconut is a tropical fruit derived from the coconut palm tree (Cocos nucifera). Encased in a tough, fibrous husk, the coconut contains a large seed with a distinctive white, edible flesh called coconut meat. Additionally, it holds a refreshing liquid known as coconut water. Renowned for its sweet and nutty flavor, coconut is a versatile ingredient used in a variety of culinary dishes and desserts. Coconut oil, extracted from the meat, is widely utilized in cooking, skincare, and hair care due to its beneficial properties. The coconut palm plays a significant role in tropical economies and cultures, providing not only sustenance but also materials for various applications. Beyond its practical uses, coconuts are often associated with tropical landscapes, symbolizing relaxation and exotic beauty."
+    }
+]
